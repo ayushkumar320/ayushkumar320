@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Ayush%20👋&fontSize=70&animation=fadeIn" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+Enthusiast+%26+Explorer;Agentic+AI;DevOps+Enthusiast" alt="Typing SVG" />
+  <div align="center">
+    <object data="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Enthusiast+%26+Explorer;Agentic+AI;DevOps+Enthusiast&v=2026" type="image/svg+xml">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Enthusiast+%26+Explorer;Agentic+AI;DevOps+Enthusiast&v=2026" alt="Typing SVG" />
+    </object>
+  </div>
 
   <p align="center">
     <a href="https://linkedin.com/in/ayushnotkumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
