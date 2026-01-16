@@ -16,11 +16,11 @@
 ### 💫 About Me
 <img align="right" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/assets/74038190/35252875-925f-4613-81b8-e6b77247d4e3" />
 
-- 🤖 **AI Enthusiast**: Deeply passionate about the evolving AI landscape and exploring new AI tools.
-- 🧠 **Agentic AI**: Keenly interested in building and researching **Autonomous Agents** and LLM orchestration.
-- 🚀 **Collaborating on**: Web Development projects using the MERN stack and AI integrations.
-- 🌱 **Learning**: Deep diving into **DevOps** and AI-driven automation.
-- 💬 **Ask me about**: Full stack development, AI Agents, or UI/UX with Tailwind.
+- 🤖 **AI Enthusiast**: Passionate about exploring the latest AI tools and ecosystems.
+- 🧠 **Agentic AI**: Keen interest in researching and building **Autonomous AI Agents**.
+- 🚀 **Collaborating on**: Full-stack web development (MERN) and AI-integrated applications.
+- 🌱 **Learning**: Deep diving into **DevOps** pipelines and AI automation.
+- 💬 **Ask me about**: JavaScript, React, Agentic frameworks, or Cloud deployment.
 
 ---
 
@@ -55,14 +55,33 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar320&show_icons=true&theme=tokyonight&count_private=true" alt="Ayush's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar320&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar320&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Main Stats" /><br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkumar320&theme=dark&hide_border=false" alt="Streak Stats" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar320&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushkumar320&theme=radical&no-frame=false&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ayushkumar320&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=ayushkumar320&icon=0&color=0" />
