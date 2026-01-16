@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Ayush%20👋&fontSize=70&animation=fadeIn" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+Enthusiast+%26+Explorer;Agentic+AI+Researcher;DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+Enthusiast+%26+Explorer;Agentic+AI;DevOps+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/ayushnotkumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -64,19 +64,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushkumar320&theme=radical&no-frame=false&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ayushkumar320&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 <p align="center">
