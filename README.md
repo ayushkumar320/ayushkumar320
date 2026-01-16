@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Ayush%20👋&fontSize=70&animation=fadeIn" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+Enthusiast+%26+Explorer;Agentic+AI+Researcher;DevOps+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/ayushnotkumar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,11 +16,11 @@
 ### 💫 About Me
 <img align="right" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/assets/74038190/35252875-925f-4613-81b8-e6b77247d4e3" />
 
-- 🚀 **Currently working on**: Improving my Full Stack Architecture skills.
-- 🌱 **Currently learning**: Advanced **DevOps** (CI/CD Pipelines & Kubernetes).
-- 👯 **Looking to collaborate**: On innovative **MERN** or Next.js projects.
-- 💬 **Ask me about**: JavaScript, React, or why your Docker container isn't starting!
-- ⚡ **Fun Fact**: I prefer writing code over reading documentation (but I'm changing that!).
+- 🤖 **AI Enthusiast**: Deeply passionate about the evolving AI landscape and exploring new AI tools.
+- 🧠 **Agentic AI**: Keenly interested in building and researching **Autonomous Agents** and LLM orchestration.
+- 🚀 **Collaborating on**: Web Development projects using the MERN stack and AI integrations.
+- 🌱 **Learning journey**: Deep diving into **DevOps** and AI-driven automation.
+- 💬 **Ask me about**: Full stack development, AI Agents, or UI/UX with Tailwind.
 
 ---
 
@@ -29,46 +29,46 @@
 <table align="center">
   <tr>
     <td align="center" width="200"><strong>Frontend</strong></td>
-    <td align="center" width="200"><strong>Backend</strong></td>
+    <td align="center" width="200"><strong>Backend & AI</strong></td>
     <td align="center" width="200"><strong>DevOps/Cloud</strong></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css" />
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,java" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,java,py,openai" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,nginx,git,github" />
     </td>
   </tr>
 </table>
 
 <details>
-  <summary align="center"><b>Click to see more tools 🛠️</b></summary>
+  <summary align="center"><b>Click to see Languages & Productivity Tools 🛠️</b></summary>
   <br />
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,postman,vite,figma,notion,markdown,bash,workers,vercel" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,postman,vite,figma,notion,markdown,bash,workers,vercel" />
   </p>
 </details>
 
 ---
 
-### 📊 My Github Stats
+### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar320&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Ayush's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar320&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Ayush's Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar320&theme=tokyonight&hide_border=false" alt="Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar320&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar320&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushkumar320&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushkumar320&theme=radical&no-frame=false&margin-w=4" />
 </p>
 
 ---
