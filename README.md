@@ -14,7 +14,6 @@
 ---
 
 ### 💫 About Me
-<img align="right" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/assets/74038190/35252875-925f-4613-81b8-e6b77247d4e3" />
 
 - 🤖 **AI Enthusiast**: Passionate about exploring the latest AI tools and ecosystems.
 - 🧠 **Agentic AI**: Keen interest in researching and building **Autonomous AI Agents**.
@@ -26,47 +25,49 @@
 
 ### 💻 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="220"><strong>Frontend</strong></td>
-    <td align="center" width="220"><strong>Backend & AI</strong></td>
-    <td align="center" width="220"><strong>DevOps/Cloud</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,java,py,openai" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,nginx,git,github" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/frontend-000?style=for-the-badge" alt="Frontend Title" />
+<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/backend-000?style=for-the-badge" alt="Backend Title" />
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,java,py,openai" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/devops%20%26%20cloud-000?style=for-the-badge" alt="DevOps Title" />
+<br />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,nginx,git,github" />
+
+<br /><br />
 
 <details>
-  <summary align="center"><b>Click to see Languages & Productivity Tools 🛠️</b></summary>
+  <summary><b>View Languages & Productivity Tools 🛠️</b></summary>
   <br />
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,postman,vite,figma,notion,markdown,bash,workers,vercel" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,postman,vite,figma,notion,markdown,bash,workers,vercel" />
 </details>
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkumar320&theme=dark&hide_border=false" alt="Streak Stats" /><br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkumar320&theme=dark&hide_border=false" alt="Streak Stats" />
+  <br/><br/>
 </div>
 
 ---
-
 
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
