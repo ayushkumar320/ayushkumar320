@@ -32,27 +32,31 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/FRONTEND%20DEVELOPMENT-%2345E3B7?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css,zustand,zod" />
+</p>
+
 <br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css,zustand,zod" />
 
-<br /><br />
+<img src="https://img.shields.io/badge/BACKEND-%230077B5?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,deno,bun,redis,openai" />
+</p>
 
-<img src="https://img.shields.io/badge/BACKEND%20%26%20AI-%230077B5?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend" />
 <br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,deno,bun,redis,openai" />
-
-<br /><br />
 
 <img src="https://img.shields.io/badge/DEVOPS%20%26%20CLOUD-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="DevOps" />
-<br />
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,azure,nginx,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,azure,nginx,git,github" />
+</p>
 
-<br /><br />
+<br />
 
 <details>
   <summary><b>View Languages & Productivity Tools 🛠️</b></summary>
-  <br />
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,c,postman,vite,figma,notion,markdown,bash,workers,vercel,prettier,eslint" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,c,postman,vite,figma,notion,markdown,bash,workers,vercel,prettier,eslint" />
+  </p>
 </details>
 
 </div>
