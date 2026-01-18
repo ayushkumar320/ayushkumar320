@@ -63,7 +63,7 @@
 
 ---
 
-### 🚀 Learning List: 
+### 🚀 Currently Learning & Researching
 
 - 🧠 **Agentic AI Frameworks**: Deep diving into **LangChain**, **LangGraph**, and **CrewAI** for multi-agent orchestration.
 - 🤖 **Autonomous Workflows**: Building self-correcting AI loops and RAG (Retrieval-Augmented Generation) systems.
@@ -81,9 +81,8 @@
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" />
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
