@@ -63,7 +63,7 @@
 
 ---
 
-### 🚀 Currently Learning & Researching
+### 🚀 Learning List: 
 
 - 🧠 **Agentic AI Frameworks**: Deep diving into **LangChain**, **LangGraph**, and **CrewAI** for multi-agent orchestration.
 - 🤖 **Autonomous Workflows**: Building self-correcting AI loops and RAG (Retrieval-Augmented Generation) systems.
