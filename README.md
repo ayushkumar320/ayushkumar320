@@ -31,31 +31,39 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/frontend-000?style=for-the-badge" alt="Frontend Title" />
+<img src="https://img.shields.io/badge/FRONTEND%20DEVELOPMENT-%2345E3B7?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
 <br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css,zustand,zod" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/backend-000?style=for-the-badge" alt="Backend Title" />
+<img src="https://img.shields.io/badge/BACKEND%20%26%20AI-%230077B5?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend" />
 <br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,java,py,openai" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,deno,bun,redis,openai" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/devops%20%26%20cloud-000?style=for-the-badge" alt="DevOps Title" />
+<img src="https://img.shields.io/badge/DEVOPS%20%26%20CLOUD-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="DevOps" />
 <br />
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,nginx,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,azure,nginx,git,github" />
 
 <br /><br />
 
 <details>
   <summary><b>View Languages & Productivity Tools 🛠️</b></summary>
   <br />
-  <img src="https://skillicons.dev/icons?i=cpp,c,postman,vite,figma,notion,markdown,bash,workers,vercel" />
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,c,postman,vite,figma,notion,markdown,bash,workers,vercel,prettier,eslint" />
 </details>
 
 </div>
+
+---
+
+### 🚀 Learning List: 
+
+- 🧠 **Agentic AI Frameworks**: Deep diving into **LangChain**, **LangGraph**, and **CrewAI** for multi-agent orchestration.
+- 🤖 **Autonomous Workflows**: Building self-correcting AI loops and RAG (Retrieval-Augmented Generation) systems.
+- ☁️ **Cloud Native**: Mastering **Infrastructure as Code (IaC)** and advanced CI/CD patterns.
 
 ---
 
