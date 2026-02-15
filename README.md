@@ -15,6 +15,9 @@
     <a href="https://leetcode.com/ayushkumar320" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
     </a>
+    <a href="https://codeforces.com/profile/ayushkumar320" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+    </a>
   </p>
 </div>
 
@@ -34,21 +37,21 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FRONTEND%20DEVELOPMENT-%2345E3B7?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
+<img src="https://img.shields.io/badge/FRONTEND%20DEVELOPMENT-%2345E3B7?style=for-the-badge&logo=react&logoColor=white" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css,zustand,zod" />
 </p>
 
 <br />
 
-<img src="https://img.shields.io/badge/BACKEND-%230077B5?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend" />
+<img src="https://img.shields.io/badge/BACKEND-%230077B5?style=for-the-badge&logo=node.js&logoColor=white" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,deno,bun,redis,openai" />
 </p>
 
 <br />
 
-<img src="https://img.shields.io/badge/DEVOPS%20%26%20CLOUD-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="DevOps" />
+<img src="https://img.shields.io/badge/DEVOPS%20%26%20CLOUD-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,azure,nginx,git,github" />
 </p>
@@ -78,11 +81,21 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/ayushkumar320?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/ayushkumar320?theme=dark&font=Fira%20Code&ext=contest" />
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/ayushkumar320?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
+<img src="https://leetcard.jacoblin.cool/ayushkumar320?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+</div>
+
+---
+
+### 🏆 Codeforces Stats
+
+<div align="center">
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ayushkumar320&theme=dark" />
 
 </div>
 
@@ -91,7 +104,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkumar320&theme=dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkumar320&theme=dark&hide_border=false" />
   <br/><br/>
 </div>
 
@@ -100,7 +113,7 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </p>
 
 <p align="center">
