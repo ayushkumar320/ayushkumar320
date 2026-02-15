@@ -12,6 +12,9 @@
     <a href="https://x.com/notaprocoder" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
     <a href="https://instagram.com/ayushnotkumar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
     <a href="mailto:ayushkumar85385@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://leetcode.com/ayushkumar320" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a>
   </p>
 </div>
 
@@ -63,15 +66,30 @@
 
 ---
 
-### 🚀 Learning List: 
+### 🚀 Learning List
 
-- 🧠 **Agentic AI Frameworks**: Deep diving into **LangChain**, **LangGraph**, and **CrewAI** for multi-agent orchestration.
-- 🤖 **Autonomous Workflows**: Building self-correcting AI loops and RAG (Retrieval-Augmented Generation) systems.
-- ☁️ **Cloud Native**: Mastering **Infrastructure as Code (IaC)** and advanced CI/CD patterns.
+- 🧠 **Agentic AI Frameworks**: LangChain, LangGraph, CrewAI  
+- 🤖 **Autonomous Workflows**: RAG systems & self-correcting AI loops  
+- ☁️ **Cloud Native**: IaC & Advanced CI/CD pipelines  
+
+---
+
+### 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/ayushkumar320?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/ayushkumar320?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkumar320&theme=dark&hide_border=false" alt="Streak Stats" />
   <br/><br/>
@@ -80,6 +98,7 @@
 ---
 
 ### ✍️ Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" />
 </p>
