@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Ayush%20👋&fontSize=70&animation=fadeIn" />
   
   <div align="center">
-    <object data="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Enthusiast+%26+Explorer;Agentic+AI;DevOps+Enthusiast&v=2026" type="image/svg+xml">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Enthusiast+%26+Explorer;Agentic+AI;DevOps+Enthusiast&v=2026" alt="Typing SVG" />
+    <object data="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Enthusiast+%26+Explorer;Agentic+AI+Engineer;DevOps+Enthusiast&v=2026" type="image/svg+xml">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E3B7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Enthusiast+%26+Explorer;Agentic+AI+Engineer;DevOps+Enthusiast&v=2026" alt="Typing SVG" />
     </object>
   </div>
 
@@ -26,9 +26,9 @@
 ### 💫 About Me
 
 - 🤖 **AI Enthusiast**: Passionate about exploring the latest AI tools and ecosystems.
-- 🧠 **Agentic AI**: Keen interest in researching and building **Autonomous AI Agents**.
+- 🧠 **Agentic AI**: Currently learning and building **Autonomous AI Agents** using LangChain, LangGraph & RAG systems.
 - 🚀 **Collaborating on**: Full-stack web development (MERN) and AI-integrated applications.
-- 🌱 **Learning**: Deep diving into **DevOps** pipelines and AI automation.
+- 🌱 **Learning**: Deep diving into **Agentic AI** — multi-agent orchestration, self-correcting loops, and AI automation.
 - 💬 **Ask me about**: JavaScript, React, Agentic frameworks, or Cloud deployment.
 
 ---
@@ -46,7 +46,22 @@
 
 <img src="https://img.shields.io/badge/BACKEND-%230077B5?style=for-the-badge&logo=node.js&logoColor=white" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,deno,bun,redis,openai" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,deno,bun,redis,fastapi" />
+</p>
+
+<br />
+
+<img src="https://img.shields.io/badge/AI%20%26%20AI%20ENGINEERING-%23FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-222222?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 <br />
@@ -73,6 +88,7 @@
 
 - 🧠 **Agentic AI Frameworks**: LangChain, LangGraph, CrewAI  
 - 🤖 **Autonomous Workflows**: RAG systems & self-correcting AI loops  
+- 🔗 **AI Engineering**: Multi-agent orchestration, tool-use patterns & prompt engineering  
 - ☁️ **Cloud Native**: IaC & Advanced CI/CD pipelines  
 
 ---
