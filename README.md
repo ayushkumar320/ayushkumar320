@@ -117,15 +117,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkumar320&theme=dark&hide_border=false" />
-  <br/><br/>
-</div>
-
----
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
